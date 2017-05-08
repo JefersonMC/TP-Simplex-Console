@@ -1,0 +1,12 @@
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.exe.config
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.exe
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.pdb
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.csprojResolveAssemblyReference.cache
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.exe
+c:\users\jeferson mc\documents\visual studio 2015\Projects\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.pdb
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.exe.config
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.exe
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.pdb
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.exe
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\bin\Debug\MetodoSimplex.pdb
+E:\1 - PARTICULAR\Projetos\MetodoSimplex\MetodoSimplex\obj\Debug\MetodoSimplex.csprojResolveAssemblyReference.cache
